@@ -1,1 +1,1 @@
-/Users/ryanflynn/Development/code/side-projects/rustor/target/debug/rustor: /Users/ryanflynn/Development/code/side-projects/rustor/src/main.rs
+/Users/ryanflynn/Development/code/side-projects/rustor/target/debug/rustor: /Users/ryanflynn/Development/code/side-projects/rustor/src/editor.rs /Users/ryanflynn/Development/code/side-projects/rustor/src/main.rs
